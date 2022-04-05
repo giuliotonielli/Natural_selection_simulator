@@ -20,9 +20,9 @@ In order to access and run the program, go to the "script" section of the Blende
 
 When you are ready, run the code. It may take quite some time before the simulation is ready. Once the animation has been fully computated, go to the "Scene" section of the Blender file and press the space-tab to start the simulation. During the animation, you can move, rotate and zoom-in or out of the scene. To stop the animation, press the space-tab. 
 
-At the end of the simulation, if you want to visualize how the different genes of each animal have evolved over time, open , open the terminal (Window -> Terminal) and copy the whole output. Then, open the "Data.py" python script and paste it as the input of the "graph()" function. Then, run the code. You should be able to see how the different genes of each animal have changed over time.
+At the end of the simulation, if you want to visualize how the different genes of each animal have evolved over time, open , open the terminal (Window -> Terminal) and copy the whole output. Then, open the "Data.py" python script and paste it as the input of the "graph()" function. Then, run the code. You should be able to see how the different genes of each type of animal (sheep or wolf) have changed over time. You will also be able to see how the population of each group varies over time.
 
-## Other Useful Information:
+## More Useful Information:
 The graphics of the simulation (including the map, the water, the animals and the animations) are made in Blender 3.0.0. 
 
 The objects in the layout scene are animated by Python code in the script section of the Blender file. 
